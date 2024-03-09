@@ -1,0 +1,4 @@
+name: dkim-verifier
+dependencies:
+  - python=3.11
+  - dkimpy
